@@ -2,7 +2,7 @@
 .venv/
 venv/
 
-# Editor / IDE
+#IDE
 .vscode/
 .idea/
 
@@ -21,6 +21,6 @@ __pycache__/
 .DS_Store
 Thumbs.db
 
-# Environment / secrets (never commit these)
+# Environment
 .env
 .env.*
